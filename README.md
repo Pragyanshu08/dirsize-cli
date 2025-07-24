@@ -2,12 +2,6 @@
 
 is a lightweight and developer-friendly CLI tool that visualizes the size of directories and files in a tree-like structure — just like tree, but with file sizes! It's especially useful for understanding which parts of your project are taking up the most space.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Author](#author)
-- [License](#license)
 
 ## 🚀 Features
 - 📁 Visual, tree-style representation of folders and file sizes
